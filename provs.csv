@@ -1,0 +1,25 @@
+PROV,IDPROV,PROV_REF_ID,NOMPROV,provincia_nombre,provincia_abreviatura
+2,2,1,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,CABA
+6,6,2,Buenos Aires,Buenos Aires,BA
+10,10,3,Catamarca,Catamarca,CA
+14,14,4,Córdoba,Córdoba,CB
+18,18,5,Corrientes,Corrientes,CR
+22,22,6,Chaco,Chaco,CH
+26,26,7,Chubut,Chubut,CT
+30,30,8,Entre Ríos,Entre Ríos,ER
+34,34,9,Formosa,Formosa,FO
+38,38,10,Jujuy,Jujuy,JY
+42,42,11,La Pampa,La Pampa,LP
+46,46,12,La Rioja,La Rioja,LR
+50,50,13,Mendoza,Mendoza,MZ
+54,54,14,Misiones,Misiones,MI
+58,58,15,Neuquén,Neuquén,NQ
+62,62,16,Río Negro,Río Negro,RN
+66,66,17,Salta,Salta,SA
+70,70,18,San Juan,San Juan,SJ
+74,74,19,San Luis,San Luis,SL
+78,78,20,Santa Cruz,Santa Cruz,SC
+82,82,21,Santa Fe,Santa Fe,SF
+86,86,22,Santiago del Estero,Santiago del Estero,SE
+90,90,23,Tucumán,Tucumán,TU
+94,94,24,Tierra del Fuego,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",TF
